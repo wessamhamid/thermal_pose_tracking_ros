@@ -1,6 +1,6 @@
 <launch>
 
-  <node name="lwir_human_tracking_node" pkg="human_tracking" type="lwir_human_tracking.py">
+  <node name="lwir_human_tracking_node" pkg="thermal_pose_tracking_ros" type="seek_pose_tracking.py">
   </node>
 
 </launch>
