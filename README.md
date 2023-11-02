@@ -24,7 +24,7 @@ pip3 install opencv-python==4.2.0.32
 ```txt
 pip3 install mediapipe
 ```
-- [seek_thermal_ros](https://github.com/wessamhamid/seek_thermal_ros):
+- [seek_thermal_ros](https://github.com/wessamhamid/seek_thermal_ros)
 
 ## Usage
 ### Launching the LWIR Pose Tracking Node
